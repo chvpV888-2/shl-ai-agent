@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Ability, Competencies, Personality",
+    "description": "A comprehensive report covering ability, biodata, competencies, and personality."
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge specifically for .NET Framework 4.5."
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge for .NET MVC development."
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge for .NET MVVM architecture."
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge for .NET Windows Communication Foundation."
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge for .NET Windows Presentation Foundation."
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical programming knowledge for .NET XAML user interface design."
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Tests financial and accounting knowledge specific to Accounts Payable processes."
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Simulations",
+    "description": "An interactive simulation testing practical, real-world Accounts Payable skills."
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Tests financial and accounting knowledge specific to Accounts Receivable processes."
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Simulations",
+    "description": "An interactive simulation testing practical, real-world Accounts Receivable skills."
+  },
+  [
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates technical proficiency and knowledge in Adobe Experience Manager (AEM) development and content management."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses practical design and image editing skills using Adobe Photoshop CC."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Tests core engineering principles, mechanics, and design knowledge specific to the aeronautical field."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates foundational and advanced concepts in aerospace engineering, including aerodynamics and propulsion."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Measures understanding of Agile methodologies, Scrum frameworks, and the software development lifecycle."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses knowledge of software testing practices, automation, and quality assurance within an Agile environment."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates foundational knowledge of Artificial Intelligence concepts, machine learning algorithms, and data science principles."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Tests cloud architecture, deployment, and development skills specifically within the AWS ecosystem."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Assesses mobile application development skills, focusing on the Android SDK, Java/Kotlin, and platform architecture."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Evaluates front-end web development skills and component-based architecture using the Angular 6 framework."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Tests proficiency in building dynamic, single-page web applications using the legacy AngularJS framework."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/",
+    "test_type": "Knowledge & Skills",
+    "description": "Measures data engineering and big data processing skills using the distributed Apache Hadoop ecosystem."
+  }
+]
+]
